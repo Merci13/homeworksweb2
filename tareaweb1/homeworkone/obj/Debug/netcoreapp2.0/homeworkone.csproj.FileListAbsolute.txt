@@ -1,0 +1,10 @@
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\bin\Debug\netcoreapp2.0\homeworkone.deps.json
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\bin\Debug\netcoreapp2.0\homeworkone.runtimeconfig.json
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\bin\Debug\netcoreapp2.0\homeworkone.runtimeconfig.dev.json
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\bin\Debug\netcoreapp2.0\homeworkone.dll
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\bin\Debug\netcoreapp2.0\homeworkone.pdb
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\obj\Debug\netcoreapp2.0\homeworkone.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\obj\Debug\netcoreapp2.0\homeworkone.AssemblyInfoInputs.cache
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\obj\Debug\netcoreapp2.0\homeworkone.AssemblyInfo.cs
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\obj\Debug\netcoreapp2.0\homeworkone.dll
+C:\xampp\htdocs\homeworksweb2\tareaweb1\homeworkone\obj\Debug\netcoreapp2.0\homeworkone.pdb

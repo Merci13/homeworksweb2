@@ -1,0 +1,23 @@
+Create a Web Pages project in ASP.net, there will be one main navigation menu with 2 menu options,
+ Home and Services
+When click on the Services page it will show a list of the Services that provides a Software Development Company 
+(Software Development, Outsourcing and Quality Assurance). 
+There will be one page for each of those services that describes each one,
+ when clicking in the service name it will take the user to a new page with information about that service. 
+The home page will show a jQuery slideshow with some random pictures.
+ You can use bootstrap if you want. 
+Use Razor and C# for the pages and make sure that all pages share the same layout,
+Make sure that an element in the page will show the Current Date and Time.
+Push the code to github and post the github repo URL in here.
+
+
+Crear un proyecto de páginas web en ASP.net, habrá un menú principal de navegación con 2 opciones de menú, Inicio y Servicios
+Al hacer clic en la página de Servicios, se mostrará una lista de los Servicios que proporciona una Compañía de Desarrollo de Software 
+(Desarrollo de Software, Outsourcing y Garantía de Calidad).
+Habrá una página para cada uno de esos servicios que describa cada uno,
+ cuando haga clic en el nombre del servicio llevará al usuario a una nueva página con información sobre ese servicio.
+La página de inicio mostrará una presentación de diapositivas de jQuery con algunas imágenes aleatorias. 
+Puedes usar bootstrap si quieres.
+Use Razor y C # para las páginas y asegúrese de que todas las páginas comparten el mismo diseño,
+Asegúrese de que un elemento en la página muestre la fecha y hora actuales.
+Empuja el código a github y publica la URL del repositorio de github aquí.
