@@ -1,0 +1,11 @@
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\bin\Debug\netcoreapp2.0\Workshopmvc.deps.json
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\bin\Debug\netcoreapp2.0\Workshopmvc.runtimeconfig.json
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\bin\Debug\netcoreapp2.0\Workshopmvc.runtimeconfig.dev.json
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\bin\Debug\netcoreapp2.0\Workshopmvc.dll
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\bin\Debug\netcoreapp2.0\Workshopmvc.pdb
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\obj\Debug\netcoreapp2.0\Workshopmvc.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\obj\Debug\netcoreapp2.0\Workshopmvc.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\obj\Debug\netcoreapp2.0\Workshopmvc.AssemblyInfo.cs
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\obj\Debug\netcoreapp2.0\Workshopmvc.dll
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\obj\Debug\netcoreapp2.0\Workshopmvc.pdb
+C:\Users\ESTUDIANTE UTN\Documents\homeworksweb2\Workshopmvc\obj\Debug\netcoreapp2.0\Workshopmvc.csprojResolveAssemblyReference.cache

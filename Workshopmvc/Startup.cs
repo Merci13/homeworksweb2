@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using Workshopmvc.Models;
 
 namespace Workshopmvc
 {
@@ -22,6 +24,8 @@ namespace Workshopmvc
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddDbContext<CarroContext>(options =>
+            options.UseSqlite("Data Source=Carro.db"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
